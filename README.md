@@ -1,2 +1,5 @@
 # impactful-ai-startups
-List of AI Startups working on world impactful challenging problems.
+List of revolutionary AI Startups working on world challenging problems.
+
+1. [Ubenwa Health](https://ubenwa.ai/)
+2. [Lisa Health](https://midday.health/)
