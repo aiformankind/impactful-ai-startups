@@ -14,3 +14,7 @@ List of revolutionary AI Startups working on world challenging problems.
 11. [boomitra](https://boomitra.com/)
 12. [safeai](https://www.safeai.ai/)
 13. [poised](https://www.poised.com/)
+14. [super.ai](https://super.ai/)
+15. [compose.ai](https://www.compose.ai/)
+16. [intenseye](https://www.intenseye.com/)
+17. [oqton](https://www.oqton.com/)
