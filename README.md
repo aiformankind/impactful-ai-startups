@@ -8,3 +8,4 @@ List of revolutionary AI Startups working on world challenging problems.
 5. [peptone](https://peptone.io/)
 6. [netra](https://www.netra.io/)
 7. [Viz.ai](https://www.viz.ai/)
+8. [KoBoldMetals](https://www.koboldmetals.com/)
