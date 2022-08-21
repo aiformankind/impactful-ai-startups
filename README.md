@@ -18,3 +18,5 @@ List of revolutionary AI Startups working on world challenging problems.
 15. [compose.ai](https://www.compose.ai/)
 16. [intenseye](https://www.intenseye.com/)
 17. [oqton](https://www.oqton.com/)
+18. [dina](https://www.dinacare.com/)
+19. [malamute](https://www.malamute.us/)
